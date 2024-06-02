@@ -50,7 +50,6 @@ header  h1{
     color: white;
 font-family:var(--font-destaque);
 text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.504);
-margin-bottom: 20px;
 font-size: 3em;
 font-weight: normal;
 
@@ -60,11 +59,11 @@ header p{
     color: white;
     font-family: var(--font-padrao);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.578);
-    font-size: small;
-font-size: 1.5em;
+
+font-size: 1em;
 max-width: 600px;
 margin:auto ;
-margin-bottom: 10px;
+padding-bottom: 20px;
 padding-right: 10px;
 padding-left: 10px;
 }
@@ -79,12 +78,11 @@ nav{
 nav a{
     color:var(--cor1);
     text-decoration: none;
-    padding-top: 10px;
     padding:10px;
     border-radius: 5px;
     font-weight: bold;
     transition-duration: 0.5s;
-    font-size: small;
+    font-size:0.5em;
     
 }
 
@@ -102,6 +100,7 @@ main{
     margin: auto;
     margin-bottom: 20px;
     padding: 10px;
+    padding-top: 50px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.329);
     border-radius: 0px 0px 10px 10px;
 }
