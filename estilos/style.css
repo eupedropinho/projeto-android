@@ -60,7 +60,7 @@ header p{
     color: white;
     font-family: var(--font-padrao);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.578);
-padding-bottom: 20px;
+    font-size: small;
 font-size: 1.5em;
 max-width: 600px;
 margin:auto ;
@@ -84,6 +84,7 @@ nav a{
     border-radius: 5px;
     font-weight: bold;
     transition-duration: 0.5s;
+    font-size: small;
     
 }
 
